@@ -6,7 +6,7 @@ Created on Fri Jul 15 02:07:16 2022
 """
 
 def addition ():
-    a = 100
+    a = 110
     b = 50
     print (a+b)
 
